@@ -105,10 +105,6 @@ SystemTeca/
    git clone https://github.com/borgeszxz/SystemTeca.git
    ```
 2. **Compile o código**:
-   Navegue até o diretório do projeto:
-   ```bash
-   cd sistema-biblioteca
-   ```
    Compile todos os arquivos `.java`:
    ```bash
    javac *.java
